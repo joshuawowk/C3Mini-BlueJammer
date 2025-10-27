@@ -68,6 +68,7 @@ For this one, all you need is listed below:
 **Required:**  
 - **[C3Mini Dev Module](https://s.click.aliexpress.com/e/_oluRXPm)**
 - **[GT24-Mini](https://s.click.aliexpress.com/e/_omlnE88)** (2x)
+- **[Slide switch](https://s.click.aliexpress.com/e/_c4eQKm5D)**
 
 **Additional:**  
 - **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**  
