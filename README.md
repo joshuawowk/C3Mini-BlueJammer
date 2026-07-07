@@ -1,4 +1,4 @@
-<h1 align="center">C3Mini-BlueJammer - by @emensta</h1>
+<h1 align="center">C3Mini-BlueJammer - by @jwowk</h1>
 
 ![C3Mini-RF-OLED](https://github.com/user-attachments/assets/b64c7f5d-0abc-4a0c-8543-a446f49438d2)
 
